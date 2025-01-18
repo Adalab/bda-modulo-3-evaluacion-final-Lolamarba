@@ -15,6 +15,7 @@
   # 📍 Estructura del Proyecto
 
 - Datos:
+
 Customer Flight Analysis.csv: Contiene información detallada sobre la actividad de vuelo de los clientes, incluyendo número de vuelos, distancia, puntos acumulados y redimidos.
 
 Customer Loyalty History.csv: Proporciona un perfil detallado de los clientes, incluyendo su ubicación, nivel educativo, ingresos, estado civil y detalles sobre su membresía en el programa de lealtad.
