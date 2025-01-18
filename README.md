@@ -5,12 +5,14 @@
   
 - Este repositorio contiene el código y los resultados de un análisis exhaustivo de los datos de un programa de fidelización de una aerolínea. El objetivo principal es comprender el comportamiento de los clientes, identificar patrones y tendencias, para así obtener insights valiosos y poder mejorar las estrategias de la aerolínea.
 
+
   # 📝 Objetivos planteados 
 
 - Comprender el comportamiento de los clientes en términos de reservas de vuelos, acumulación y redención de puntos.
 - Identificar segmentos de clientes con características y necesidades similares.
 - Evaluar la efectividad del programa de fidelización.
 - Proporcionar recomendaciones para mejorar la experiencia del cliente y aumentar la lealtad.
+
 
   # 📍 Estructura del Proyecto
 
@@ -23,20 +25,23 @@ Customer Loyalty History.csv: Proporciona un perfil detallado de los clientes, i
 - Código:
 
 1º. Notebook de Jupyter para la exploración inicial de los datos, limpieza y transformación.
+
 2º. Notebook de Jupyter para crear visualizaciones que respondan a las preguntas de investigación.
 
+  
   # 🧮 Metodología
 
 * Fase 1
 
-🔋 Carga de datos: Los datos se cargaron en un DataFrame de Pandas para facilitar el análisis.
-🕵🏻‍♀️🧹 Exploración y limpieza de datos: Se realizó un análisis exploratorio de los datos para identificar valores nulos, duplicados, atípicos o faltantes.
+- 🔋 Carga de datos: Los datos se cargaron en un DataFrame de Pandas para facilitar el análisis.
+- 🕵🏻‍♀️🧹 Exploración y limpieza de datos: Se realizó un análisis exploratorio de los datos para identificar valores nulos, duplicados, atípicos o faltantes.
 
 * Fase 2
 
 📊 Visualización de datos: Se utilizaron gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
 
-# 🛠️ Herramientas y Bibliotecas Utilizadas
+  
+  # 🛠️ Herramientas y Bibliotecas Utilizadas
 
 Para resolver los ejercicios de este proyecto, se han utilizado las siguientes herramientas y bibliotecas:
 
