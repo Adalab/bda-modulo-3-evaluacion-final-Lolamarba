@@ -31,7 +31,7 @@
 📊 Visualización de datos: Se utilizaron gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
 
   
-  # 🛠️ Herramientas y Bibliotecas Utilizadas
+  # 🛠️📚 Herramientas y Bibliotecas Utilizadas
 
 Para resolver los ejercicios de este proyecto, se han utilizado las siguientes herramientas y bibliotecas:
 
