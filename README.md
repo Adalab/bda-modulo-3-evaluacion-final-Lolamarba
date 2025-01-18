@@ -42,3 +42,9 @@ Para resolver los ejercicios de este proyecto, se han utilizado las siguientes h
 - Estadísticas: Evaluación de linealidad de las relaciones entre las variables y la distribución de las variables.
 - Python: Lenguaje de programación principal para el análisis de datos.
 - Visual Studio Code: Editor de código fuente.
+
+
+  # 📩 Contacto
+- https://www.linkedin.com/in/lola-martorell-2a2141234/
+- lolamarba29@gmail.com
+
