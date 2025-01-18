@@ -25,12 +25,12 @@ Customer Loyalty History.csv: Proporciona un perfil detallado de los clientes, i
 
   # 🧮 Metodología
 
-# Fase 1
+* Fase 1
 
 - 🔋 Carga de datos: Los datos se cargaron en un DataFrame de Pandas para facilitar el análisis.
 - 🕵🏻‍♀️🧹 Exploración y limpieza de datos: Se realizó un análisis exploratorio de los datos para identificar valores nulos, duplicados, atípicos o faltantes.
 
-# Fase 2
+* Fase 2
 
 - 📊 Visualización de datos: Se utilizaron gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
 
