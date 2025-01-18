@@ -43,7 +43,7 @@ Utilizándose gráficos de diversos tipos (barras, líneas, pastel) para visuali
 
 
 Donde podemos observar que Ontario es la provincia con mayor cantidad de clientes, superando significativamente a las demás. 
-Gracias a la gráfica, podemos ver que las provincias con mayor población (como Ontario y Quebec) tienden a tener una mayor base de clientes; probablemente debido a su densidad poblacional. 
+Gracias a la gráfica, podemos ver que las provincias con mayor densidad poblacional (como Ontario y Quebec) tienden a tener una mayor base de clientes.
 
 ------------------------------------------
   
