@@ -37,7 +37,10 @@
 
 Utilizándose gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
 
-- Ejemplos de gráficos generados en la Fase 2:
+- Ejemplo de gráfico generado en la Fase 2:
+
+![image](https://github.com/user-attachments/assets/f0975910-bfa0-464c-8ff7-eaac7295d31e)
+
 
  
 
