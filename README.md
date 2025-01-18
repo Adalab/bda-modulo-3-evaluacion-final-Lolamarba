@@ -14,26 +14,16 @@
 - Proporcionar recomendaciones para mejorar la experiencia del cliente y aumentar la lealtad.
 
 
-  # 📍 Estructura del Proyecto
-
-- Datos:
-
-Customer Flight Analysis.csv: Contiene información detallada sobre la actividad de vuelo de los clientes, incluyendo número de vuelos, distancia, puntos acumulados y redimidos.
-
-Customer Loyalty History.csv: Proporciona un perfil detallado de los clientes, incluyendo su ubicación, nivel educativo, ingresos, estado civil y detalles sobre su membresía en el programa de lealtad.
-
-- Código:
-
-1º. Notebook de Jupyter para la exploración inicial de los datos, limpieza y transformación.
-
-2º. Notebook de Jupyter para crear visualizaciones que respondan a las preguntas de investigación.
-
-  
-  # 🧮 Metodología
+   # 🧮 Metodología
 
 * Fase 1
 
 - 🔋 Carga de datos: Los datos se cargaron en un DataFrame de Pandas para facilitar el análisis.
+
+  Customer Flight Analysis.csv: Contiene información detallada sobre la actividad de vuelo de los clientes, incluyendo número de vuelos, distancia, puntos acumulados y redimidos.
+
+  Customer Loyalty History.csv: Proporciona un perfil detallado de los clientes, incluyendo su ubicación, nivel educativo, ingresos, estado civil y detalles sobre su membresía en el programa de lealtad.
+
 - 🕵🏻‍♀️🧹 Exploración y limpieza de datos: Se realizó un análisis exploratorio de los datos para identificar valores nulos, duplicados, atípicos o faltantes.
 
 * Fase 2
