@@ -21,8 +21,9 @@ Customer Flight Analysis.csv: Contiene información detallada sobre la actividad
 Customer Loyalty History.csv: Proporciona un perfil detallado de los clientes, incluyendo su ubicación, nivel educativo, ingresos, estado civil y detalles sobre su membresía en el programa de lealtad.
 
 - Código:
-  1º. Notebook de Jupyter para la exploración inicial de los datos, limpieza y transformación.
-  2º. Notebook de Jupyter para crear visualizaciones que respondan a las preguntas de investigación.
+
+1º. Notebook de Jupyter para la exploración inicial de los datos, limpieza y transformación.
+2º. Notebook de Jupyter para crear visualizaciones que respondan a las preguntas de investigación.
 
   # 🧮 Metodología
 
