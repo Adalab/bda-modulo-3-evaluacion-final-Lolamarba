@@ -35,7 +35,7 @@
 
 📊 Visualización de datos.
 
-Se utilizaron gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
+Utilizándose gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
 
 - Ejemplos de gráficos generados en la Fase 2:
 
