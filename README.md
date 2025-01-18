@@ -6,9 +6,9 @@
 - Este repositorio contiene el código y los resultados de un análisis de los datos de un programa de fidelización de una aerolínea.
 - Es un proyecto que se divide en tres fases principales:
 
-  - 1. Exploración Inicial y Limpieza de Datos
-    2. Visualización de Datos
-    3. Pruebas A/B 
+  1. Exploración Inicial y Limpieza de Datos
+  2. Visualización de Datos
+  3. Pruebas A/B 
 
 
   # 📝 ¿Objetivos? 
