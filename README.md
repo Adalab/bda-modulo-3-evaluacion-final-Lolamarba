@@ -3,10 +3,15 @@
 
   # 🔎 ¿Qué contiene este repositorio?
   
-- Este repositorio contiene el código y los resultados de un análisis exhaustivo de los datos de un programa de fidelización de una aerolínea. El objetivo principal es comprender el comportamiento de los clientes, identificar patrones y tendencias, para así obtener insights valiosos y poder mejorar las estrategias de la aerolínea.
+- Este repositorio contiene el código y los resultados de un análisis de los datos de un programa de fidelización de una aerolínea.
+- Es un proyecto que se divide en tres fases principales:
+
+  - 1. Exploración Inicial y Limpieza de Datos
+    2. Visualización de Datos
+    3. Pruebas A/B 
 
 
-  # 📝 Objetivos planteados 
+  # 📝 ¿Objetivos? 
 
 - Comprender el comportamiento de los clientes en términos de reservas de vuelos, acumulación y redención de puntos.
 - Identificar segmentos de clientes con características y necesidades similares.
@@ -28,7 +33,13 @@
 
 # Fase 2
 
-📊 Visualización de datos: Se utilizaron gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
+📊 Visualización de datos.
+
+Se utilizaron gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
+
+- Ejemplos de gráficos generados en la Fase 2:
+
+ 
 
 ------------------------------------------
   
