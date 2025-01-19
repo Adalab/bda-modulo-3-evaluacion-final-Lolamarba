@@ -49,12 +49,15 @@ Gracias a la gráfica, podemos ver que las provincias con mayor densidad poblaci
 # Fase 3 
 
 - 📝 Preparación de datos
+  
 Seleccionando únicamente las columnas relevantes para el análisis: 'Flights Booked' (vuelos reservados) y 'Education' (nivel educativo).
 
 - 📈 Análisis descriptivo
+  
 Agrupándose los datos por nivel educativo --> Se calculan estadísticas como la media, desviación estándar, mínimo, máximo, para cada grupo. Esto proporciona una visión general de la distribución de los datos en cada nivel educativo.
 
 - ✔️ Prueba estadística
+  
 En este caso utilizamos un análisis de varianza (ANOVA) para determinar si existe una diferencia significativa en la media de los vuelos reservados entre los diferentes niveles educativos.
 
 ------------------------------------------
