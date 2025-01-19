@@ -11,7 +11,7 @@
 3. Pruebas A/B 
 
 
-  # 📝 ¿Objetivos? 
+  # 📌 ¿Objetivos? 
 
 - Comprender el comportamiento de los clientes en términos de reservas de vuelos, acumulación y redención de puntos.
 - Identificar segmentos de clientes con características y necesidades similares.
@@ -37,13 +37,25 @@
 
 Utilizándose gráficos de diversos tipos (barras, líneas, pastel) para visualizar la distribución de los datos y responder a las preguntas de investigación.
 
-- Ejemplo de gráfico de barras generado en la Fase 2:
+- Ejemplo de uno de los gráficos generado en la Fase 2:
 
 ![image](https://github.com/user-attachments/assets/f0975910-bfa0-464c-8ff7-eaac7295d31e)
 
 
 Donde podemos observar que Ontario es la provincia con mayor cantidad de clientes, superando significativamente a las demás. 
 Gracias a la gráfica, podemos ver que las provincias con mayor densidad poblacional (como Ontario y Quebec) tienden a tener una mayor base de clientes.
+
+
+# Fase 3 
+
+- 📝 Preparación de datos
+Seleccionando únicamente las columnas relevantes para el análisis: 'Flights Booked' (vuelos reservados) y 'Education' (nivel educativo).
+
+- 📈 Análisis descriptivo
+Agrupándose los datos por nivel educativo --> Se calculan estadísticas como la media, desviación estándar, mínimo, máximo, para cada grupo. Esto proporciona una visión general de la distribución de los datos en cada nivel educativo.
+
+- ✔️ Prueba estadística
+En este caso utilizamos un análisis de varianza (ANOVA) para determinar si existe una diferencia significativa en la media de los vuelos reservados entre los diferentes niveles educativos.
 
 ------------------------------------------
   
